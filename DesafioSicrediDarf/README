@@ -1,7 +1,9 @@
 - Gerador de DARF com e sem codigo de barras
 
-Utilize o link http://localhost:8080/nobarcode para executar o gerador de DARF e então gerar os Dados dos Campos da DARF aleatoriamente e SEM o Codigo de Barras
+Utilize o link http://localhost:8080/nobarcode para executar o gerador de DARF
+e então gerar os Dados dos Campos da DARF aleatoriamente e SEM o Codigo de Barras.
 
 ou 
 
-Utilize o link http://localhost:8080/barcode para executar o gerador de DARF e então gerar os Dados dos Campos da DARF aleatoriamente e COM a Representacão Numerica do Codigo de Barras
+Utilize o link http://localhost:8080/barcode para executar o gerador de DARF 
+e então gerar os Dados dos Campos da DARF aleatoriamente e COM a Representacão Numerica do Codigo de Barras.
